@@ -1,0 +1,9 @@
+AndroidProject/*.iml
+AndroidProject/.gradle
+AndroidProject/local.properties
+AndroidProject/.idea/workspace.xml
+AndroidProject/.idea/libraries
+AndroidProject/.DS_Store
+AndroidProject/build
+AndroidProject/captures
+AndroidProject/.externalNativeBuild
